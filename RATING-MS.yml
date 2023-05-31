@@ -1,0 +1,8 @@
+server:
+  port: 9602
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017
+      database: RatingDatabase
